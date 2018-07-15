@@ -10,7 +10,7 @@ from Twitter_Sentiment_Analysis import sentiment_pod as s
 ckey="XXXXXXX"
 csecret="XXXXXXX"
 atoken="XXXXXXX"
-asecret="XXXXXXXXX"
+asecret="XXXXXXXX"
 
 
 class listener(StreamListener):
