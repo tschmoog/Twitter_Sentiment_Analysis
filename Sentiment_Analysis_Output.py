@@ -7,11 +7,10 @@ from tweepy.streaming import StreamListener
 from Twitter_Sentiment_Analysis import sentiment_pod as s
 
 #consumer key, consumer secret, access token, access secret.
-ckey="EbsbtI3p4ENCQ8rW8KSC47OKG"
-csecret="JiMvdfVPC3rPJCnoIuo4MmgcfS4x4EF4ISGk0qYp7jtj1FGl1X"
-atoken="1012259432108118018-Xn0ce09lv2PGxN5VeNYVeuHj2chfG7"
-asecret="Y9IirwWSfBtD8SIZpErJjBC7Y6BVDOG9PL8Rt7aXbGCfu"
-
+ckey="XXXXXXX"
+csecret="XXXXXXX"
+atoken="XXXXXXX"
+asecret="XXXXXXXXX"
 
 
 class listener(StreamListener):
